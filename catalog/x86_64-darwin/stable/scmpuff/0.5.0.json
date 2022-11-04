@@ -11,7 +11,7 @@
     "storePaths": [
       "/nix/store/jlf260nr056y4wjflj9j9flwq5j53avc-scmpuff-0.5.0"
     ],
-    "url": "git+file:///Users/etorreborre/projects/shell/scmpuff?rev=d4218274c6f6c027ec3e5dbf00422a2476f39c19"
+    "url": "git+ssh://git@github.com/etorreborre/scmpuff.git?rev=b46b5e521ba92dfc4cd5ce59668908fe1410a7c5"
   },
   "eval": {
     "attrPath": [
@@ -57,10 +57,10 @@
   },
   "source": {
     "locked": {
-      "lastModified": 1667513667,
+      "lastModified": 1667516094,
       "narHash": "sha256-Od51/LB1uGtmtgdhbj27OmsFoye/MXMwUrRnCmepSus=",
       "ref": "refs/heads/main",
-      "rev": "d4218274c6f6c027ec3e5dbf00422a2476f39c19",
+      "rev": "b46b5e521ba92dfc4cd5ce59668908fe1410a7c5",
       "revCount": 4,
       "type": "git",
       "url": "file:///Users/etorreborre/projects/shell/scmpuff"
@@ -70,9 +70,9 @@
       "url": "file:///Users/etorreborre/projects/shell/scmpuff"
     },
     "remote": {
-      "rev": "d4218274c6f6c027ec3e5dbf00422a2476f39c19",
+      "rev": "b46b5e521ba92dfc4cd5ce59668908fe1410a7c5",
       "type": "git",
-      "url": "file:///Users/etorreborre/projects/shell/scmpuff"
+      "url": "ssh://git@github.com/etorreborre/scmpuff.git"
     }
   }
 }
