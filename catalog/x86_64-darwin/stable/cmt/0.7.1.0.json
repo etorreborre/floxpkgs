@@ -9,9 +9,9 @@
     ],
     "originalUrl": null,
     "storePaths": [
-      "/nix/store/f9j9s62q2y8cfinyfd70wfb5kyrn0p52-cmt-0.7.1.0"
+      "/nix/store/69b81phd8fwsylpn27w61vr3jmhhij2c-cmt-0.7.1.0"
     ],
-    "url": "git+ssh://git@github.com/etorreborre/cmt?rev=41244ceae31f60a47c9dd38275e07abd702694dc"
+    "url": "git+ssh://git@github.com/etorreborre/cmt?rev=d5b2362cc7c356a8bf33864df5bbbb51c8d1f9a9"
   },
   "eval": {
     "attrPath": [
@@ -19,7 +19,7 @@
       "x86_64-darwin",
       "cmt"
     ],
-    "drvPath": "/nix/store/vs4s0q2wwnpahhfcy4sdmvhp3px1vvd2-cmt-0.7.1.0.drv",
+    "drvPath": "/nix/store/ik3i8nsccq8gvw8rh69vzdvh7fjlm1nd-cmt-0.7.1.0.drv",
     "meta": {
       "available": true,
       "broken": false,
@@ -104,7 +104,7 @@
         "x86_64-windows",
         "i686-windows"
       ],
-      "position": "/nix/store/a9vm4245w7db1mn8349bgmlr8kdx8fjm-source/pkgs/cmt/default.nix:4",
+      "position": "/nix/store/6zc007jdwvlqvcxpacd4kdxl568c69dd-source/pkgs/cmt/default.nix:4",
       "unfree": false,
       "unsupported": false
     },
@@ -113,7 +113,7 @@
       "cmt"
     ],
     "outputs": {
-      "out": "/nix/store/f9j9s62q2y8cfinyfd70wfb5kyrn0p52-cmt-0.7.1.0"
+      "out": "/nix/store/69b81phd8fwsylpn27w61vr3jmhhij2c-cmt-0.7.1.0"
     },
     "pname": "cmt",
     "system": "x86_64-darwin",
@@ -122,11 +122,11 @@
   },
   "source": {
     "locked": {
-      "lastModified": 1667941834,
-      "narHash": "sha256-pKZskrJEkDYsza2bdwf2xZlCCSsXEKTZ5DjdEXgFcvU=",
+      "lastModified": 1667942999,
+      "narHash": "sha256-f+CNLcHK7rebMCcUaU0Sv3RsFFG9dbGhpCcnENmPXDw=",
       "ref": "refs/heads/master",
-      "rev": "41244ceae31f60a47c9dd38275e07abd702694dc",
-      "revCount": 117,
+      "rev": "d5b2362cc7c356a8bf33864df5bbbb51c8d1f9a9",
+      "revCount": 118,
       "type": "git",
       "url": "file:///Users/etorreborre/projects/haskell/cmt"
     },
@@ -135,7 +135,7 @@
       "url": "file:///Users/etorreborre/projects/haskell/cmt"
     },
     "remote": {
-      "rev": "41244ceae31f60a47c9dd38275e07abd702694dc",
+      "rev": "d5b2362cc7c356a8bf33864df5bbbb51c8d1f9a9",
       "type": "git",
       "url": "ssh://git@github.com/etorreborre/cmt"
     }
