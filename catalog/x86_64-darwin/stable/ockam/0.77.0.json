@@ -1,0 +1,78 @@
+{
+  "build": {},
+  "element": {
+    "active": true,
+    "attrPath": [
+      "packages",
+      "x86_64-darwin",
+      "ockam"
+    ],
+    "originalUrl": null,
+    "storePaths": [
+      "/nix/store/zq69iqrglcaf0cmmmics6fwjy5v8y9pw-ockam-0.77.0"
+    ],
+    "url": "git+ssh://git@github.com/etorreborre/ockam.git?rev=a9b1a3c9124a9bc3abdf3a90ec7053bd765900ec"
+  },
+  "eval": {
+    "attrPath": [
+      "packages",
+      "x86_64-darwin",
+      "ockam"
+    ],
+    "drvPath": "/nix/store/c1cc9nglmfyv64sl8zz1k49kpg8nm8yy-ockam-0.77.0.drv",
+    "meta": {
+      "architectures": [
+        "x86"
+      ],
+      "available": true,
+      "broken": false,
+      "description": "ockam binary",
+      "homepage": "https://github.com/build-trust/ockam/",
+      "insecure": false,
+      "name": "ockam-0.77.0",
+      "outputsToInstall": [
+        "out"
+      ],
+      "platforms": [
+        "x86_64-darwin",
+        "i686-darwin",
+        "aarch64-darwin",
+        "armv7a-darwin"
+      ],
+      "position": "/nix/store/bknwzn67gr8f2yfala59hkmlwzlb00nq-source/pkgs/ockam/default.nix:30",
+      "unfree": false,
+      "unsupported": false
+    },
+    "name": "ockam-0.77.0",
+    "namespace": [
+      "ockam"
+    ],
+    "outputs": {
+      "out": "/nix/store/zq69iqrglcaf0cmmmics6fwjy5v8y9pw-ockam-0.77.0"
+    },
+    "pname": "ockam",
+    "system": "x86_64-darwin",
+    "version": "0.77.0",
+    "stability": "stable"
+  },
+  "source": {
+    "locked": {
+      "lastModified": 1668972230,
+      "narHash": "sha256-MNPPCijJXdwTzueAreZZzMipWjXaOM+2K1603TK6oCg=",
+      "ref": "refs/heads/develop",
+      "rev": "a9b1a3c9124a9bc3abdf3a90ec7053bd765900ec",
+      "revCount": 4365,
+      "type": "git",
+      "url": "file:///Users/etorreborre/projects/rust/ockam"
+    },
+    "original": {
+      "type": "git",
+      "url": "file:///Users/etorreborre/projects/rust/ockam"
+    },
+    "remote": {
+      "rev": "a9b1a3c9124a9bc3abdf3a90ec7053bd765900ec",
+      "type": "git",
+      "url": "ssh://git@github.com/etorreborre/ockam.git"
+    }
+  }
+}
